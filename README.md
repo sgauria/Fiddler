@@ -1,4 +1,4 @@
-Saving stuff I write to solve fiddlers and riddlers.
+Saving stuff I write to solve fiddlers and other puzzles.
 
 Not necessarily correct.:)
 
